@@ -13,3 +13,7 @@
 /openerp-wsgi.py
 /setup.cfg
 /setup.py
+*.pyc
+.project
+.pydevproject
+.settings/
