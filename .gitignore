@@ -1,0 +1,15 @@
+/addons/
+/debian/
+/doc/
+/openerp/
+/packages/
+/setup/
+/CONTRIBUTING.md
+/Makefile
+/MANIFEST.in
+/odoo.py
+/openerp-gevent
+/openerp-server
+/openerp-wsgi.py
+/setup.cfg
+/setup.py
